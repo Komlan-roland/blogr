@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blogr-landing-page-c3CO58Ks-X)
-- Live Site URL: [Blogr](new-blogr.netlify.app)
+- Live Site URL: [Blogr](https://new-blogr.netlify.app/)
 
 ## My process
 
